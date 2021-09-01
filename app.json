@@ -7,8 +7,8 @@
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/DarkAngel1234-tech/Multi-Files-Share",
-  "logo": "https://telegra.ph/file/5544537e87a05e0785147.jpg",
+  "repository": "https://github.com/Yukawa-Beats/Multi-Files-Share",
+  "logo": "https://telegra.ph/file/02edc63667bee3ecb44a2.jpg",
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Your Bot token, Get it from @Botfather",
@@ -16,14 +16,14 @@
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "1250450587"
+      "value": ""
     },
     "APP_ID":{
-      "description": "your app id, take it from @MT_MyTelegramOrg_Bot",
+      "description": "your app id, take it from my.telegram.org",
       "value": ""
     },
     "API_HASH":{
-      "description": "your api hash, take it from @MT_MyTelegramOrg_Bot",
+      "description": "your api hash, take it from my.telegram.org",
       "value": ""
     },
     "CHANNEL_ID":{
