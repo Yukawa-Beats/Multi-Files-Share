@@ -45,7 +45,7 @@ class Bot(Client):
             sys.exit()
 
         self.set_parse_mode("html")
-        self.LOGGER(__name__).info(f"Bot Running..!\n\nCreated by COLD_ONEz\nhttps://t.me/COLD_ONEz")
+        self.LOGGER(__name__).info(f"Bot Running..!\n\nCreated by Yukawa Beats\nhttps://t.me/ybdemochannel")
         self.username = usr_bot_me.username
 
     async def stop(self, *args):
